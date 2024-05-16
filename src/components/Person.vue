@@ -20,7 +20,7 @@ export default {
   },
   methods: {
     changeName() {
-      this.name = "张三";
+      this.name = "zhang-san";
     },
     changeAge() {
       this.age += 1;
